@@ -369,7 +369,7 @@
     <string name="_3v3">" 3vs3"</string>
     <string name="_5v5">" 5vs5"</string>
     <string name="_8v8">" 8vs8"</string>
-    <string name="Top_Ranks">"Ránking mundial"</string>
+    <string name="Top_Ranks">"Clasificación mundial"</string>
     <string name="My_Ranks">"Mi Posición"</string>
     <string name="Player_XP">"EXP Jugadores"</string>
 
@@ -579,7 +579,7 @@
     <string name="You_dont_own_the_team_">"No eres el dueño del equipo"</string>
     <string name="User_has_already_been_invited_">"Este usuario ya ha sido invitado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximos jugadores permitidos en el equipo"</string>
-    <string name="Name_is_already_in_use_">"El Nombre ya está en uso"</string>
+    <string name="Name_is_already_in_use_">"El nombre ya está en uso"</string>
     <string name="User_is_not_in_the_team_">"Este usuario no está en el equipo"</string>
     <string name="You_are_not_invited_to_team_">"No has sido invitado al equipo"</string>
     <string name="Team_does_not_exist_">"El equipo no existe:"</string>
